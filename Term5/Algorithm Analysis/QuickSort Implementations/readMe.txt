@@ -1,0 +1,1 @@
+enter this command to terminal "python <program name>.py"
